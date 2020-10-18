@@ -1,5 +1,5 @@
 # AirBNB
-This Project for Analysis on AirBNB data 
+This Project for Analysis on AirBNB data for Seattle and Boston Cities
 Anyone that use Airbnb would like to answer below questions :
 
 1) What are the main factors, which affect the reservation prices? Does time of the year influence prices and What other factors affect the price.
