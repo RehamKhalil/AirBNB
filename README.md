@@ -2,11 +2,9 @@
 This Project for Analysis on AirBNB data 
 Anyone that use Airbnb would like to answer below questions :
 
-understand if there is anything about the properties that helps you predict price. "What are the main factors, which affect the reservation prices? Does time of the year influence prices and What other factors affect the price. Locality , amenities , facilities, reviews or any other "
-Can you find negative and positive reviews based on text
-
-how much AirBNB homes are earning in certain time frames and areas. 
-You can compare rates between the two cities, 
+1) What are the main factors, which affect the reservation prices? Does time of the year influence prices and What other factors affect the price.
+2) How much AirBNB homes are earning in certain time frames and areas. 
+3) You can compare prices between the two cities
 
 
 
@@ -20,9 +18,12 @@ How to prepare Data :
 
 Data Analysis :
 
-
+1)Listing Distubution over price
+2)listing distibution over property_type
+3)Price Compare between cities across the months
 
 Price Prediction :
-
-
+1) Devide Dataset into train and test
+2) Use Linear Regression to predict the price
+3) Score the model using r-sqaure
 
