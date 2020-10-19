@@ -22,8 +22,7 @@ Data Analysis :
   1)Listing Distubution over price
   2)listing distibution over property_type
   3)Price Comparison between cites
-  4)Price Trend across year
-  5)Price Trend across year per city
+  4)Price Trend across year per city
 
 Price Prediction :
   1) Devide Dataset into train and test
