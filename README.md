@@ -1,6 +1,6 @@
 # AirBNB
 This Project for Analysis on AirBNB data for Seattle and Boston Cities for 2016-2017
-Plog Link : https://medium.com/@reham_khalil 
+Plog Link : https://reham-khalil.medium.com/airbnb-analysis-7a28ba2a4d3f
 
 Anyone that use Airbnb would like to answer below questions :
 
